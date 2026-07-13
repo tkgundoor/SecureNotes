@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Padlock Shackle Arc (Teal Accent) -->
+    <path
+        android:pathData="M38,48 V38 C38,29.1 45.1,22 54,22 C62.9,22 70,29.1 70,38 V48"
+        android:strokeWidth="6"
+        android:strokeColor="#00F2FE"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Padlock Solid Body (Blue Primary) -->
+    <path
+        android:pathData="M28,48 H80 C83.3,48 86,50.7 86,54 V82 C86,85.3 83.3,88 80,88 H28 C24.7,88 22,85.3 22,82 V54 C22,50.7 24.7,48 28,48 Z"
+        android:fillColor="#3F8CFF" />
+
+    <!-- Padlock Keyhole - Circle (Sleek Dark Void) -->
+    <path
+        android:pathData="M54,65 A4,4 0 1,1 53.999,65 Z"
+        android:fillColor="#0C0E14" />
+
+    <!-- Padlock Keyhole - Stem (Sleek Dark Void) -->
+    <path
+        android:pathData="M52,65 H56 L57,76 H51 Z"
+        android:fillColor="#0C0E14" />
+
+</vector>
